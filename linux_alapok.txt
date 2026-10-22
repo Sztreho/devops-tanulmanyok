@@ -1,0 +1,22 @@
+root@ubuntu:~/devops_suli$ history
+    1  pw
+    2  pwd
+    3  ls -la
+    4  mkdir devops_suli
+    5  cd devops_suli/
+    6  pwd
+    7  touch elso_fajlom.txt
+    8  ls -la
+    9  nano elso_fajlom.txt 
+   10  cat elso_fajlom.txt 
+   11  ls -l elso_fajlom.txt 
+   12  chmod 400 elso_fajlom.txt 
+   13  ls -l elso_fajlom.txt 
+   14  nano elso_fajlom.txt 
+   15  cat elso_fajlom.txt 
+   16  grep elso_fajlom.txt 
+   17  grep "legelso" elso_fajlom.txt 
+   18  history | grep mkdir
+   19  ip a
+   20  history
+root@ubuntu:~/devops_suli$ 
